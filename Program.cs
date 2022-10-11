@@ -12,9 +12,9 @@ namespace DAY8
         {
             Console.WriteLine(" \t Practice problem day 8");
             Console.WriteLine("\n --------------------------\n");
-            EmployeeWage EmployeeWage = new EmployeeWage();
+            PartTimeWage PartTimeWage = new PartTimeWage();
 
-            EmployeeWage.Calculate(); 
+            PartTimeWage.Calculate(); 
         }
     }
 }
