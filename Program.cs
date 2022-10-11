@@ -12,9 +12,9 @@ namespace DAY8
         {
             Console.WriteLine(" \t Practice problem day 8");
             Console.WriteLine("\n --------------------------\n");
-            EmployeeAttendance EmployeeAttendance = new EmployeeAttendance();
+            EmployeeWage EmployeeWage = new EmployeeWage();
 
-            EmployeeAttendance.Check(); 
+            EmployeeWage.Calculate(); 
         }
     }
 }
