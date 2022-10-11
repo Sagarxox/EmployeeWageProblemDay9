@@ -12,8 +12,8 @@ namespace DAY8
         {
             Console.WriteLine(" \t Practice problem day 8");
             Console.WriteLine("\n --------------------------\n");
-            SwitchCase SwitchCase = new SwitchCase();
-            SwitchCase.EmpWage();
+           MonthlyWage monthlyWage = new MonthlyWage();
+            monthlyWage.Calculate();
         }
     }
 }
