@@ -10,8 +10,11 @@ namespace DAY8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Practice problem day 8");
+            Console.WriteLine(" \t Practice problem day 8");
+            Console.WriteLine("\n --------------------------\n");
+            EmployeeAttendance EmployeeAttendance = new EmployeeAttendance();
 
+            EmployeeAttendance.Check(); 
         }
     }
 }
