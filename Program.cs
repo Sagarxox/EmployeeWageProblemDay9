@@ -12,9 +12,8 @@ namespace DAY8
         {
             Console.WriteLine(" \t Practice problem day 8");
             Console.WriteLine("\n --------------------------\n");
-            PartTimeWage PartTimeWage = new PartTimeWage();
-
-            PartTimeWage.Calculate(); 
+            SwitchCase SwitchCase = new SwitchCase();
+            SwitchCase.EmpWage();
         }
     }
 }
