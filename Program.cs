@@ -10,7 +10,7 @@ namespace DAY8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Practice problem day 8");
+            Console.WriteLine("Practice problem day 9");
 
         }
     }
